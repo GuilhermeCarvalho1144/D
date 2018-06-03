@@ -1,0 +1,8 @@
+#==============================================================================
+# THIS CODE IMPLEMENTS THE FIFTEENTH QUIZ FROM INDTRODUCTION TO DATA ANALYSIS COURSE
+# AUTHOR : GUILHERME CARVALHO PEREIRA
+# SOURCE: INDTRODUCTION TO DATA ANALYSIS COURSE...UDACITY COURSE
+#============================================================================
+##START
+##LIBRARIES
+import numpy as np
