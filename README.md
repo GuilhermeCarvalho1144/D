@@ -1,1 +1,1 @@
-# Data_Analysis_Udacity_Intro
+On this repository are the implementation of the Data Analysis introduction course, available on Udacity
